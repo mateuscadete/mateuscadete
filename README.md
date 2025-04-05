@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou um Desenvolvedor Full-Stack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+Laravel+%7C+Angular;Full-Stack+Developer+em+evolução!;Aprendendo+e+codando+todos+os+dias!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Laravel+%7C+Angular+%7C+JavaScript;Full-Stack+Developer+em+evolução!;Aprendendo+e+codando+todos+os+dias!" alt="Typing SVG" />
 </p>
 
 ---
