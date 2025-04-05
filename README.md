@@ -18,10 +18,30 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
 
 ### 🌍 Onde me encontrar
+
+- 📫 Aqui mesmo no GitHub!
+- 💬 Em breve, redes sociais e portfólio 👨‍💻
+
+---
+
+🧠 Sempre aprendendo algo novo  
+🔥 Foco, consistência e paixão por tecnologia!
 
 - 📫 Aqui mesmo no GitHub!
 - 💬 Em breve, redes sociais e portfólio 👨‍💻
