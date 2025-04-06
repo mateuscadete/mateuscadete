@@ -44,10 +44,4 @@
 🧠 Sempre aprendendo algo novo  
 🔥 Foco, consistência e paixão por tecnologia!
 
-- 📫 Aqui mesmo no GitHub!
-- 💬 Em breve, redes sociais e portfólio 👨‍💻
-
 ---
-
-🧠 Sempre aprendendo algo novo  
-🔥 Foco, consistência e paixão por tecnologia!
