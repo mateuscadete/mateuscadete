@@ -39,11 +39,6 @@
 - 📫 Aqui mesmo no GitHub!
 - 📧 mateus_cadete@outlook.com
 - @cadete1857
-- <p align="left">
-  <a href="https://instagram.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
 
 ---
