@@ -40,7 +40,6 @@
 
 - 📫 Aqui mesmo no GitHub!
 - 📧 mateus_cadete@outlook.com
-- @cadete1857
 
 ---
 
