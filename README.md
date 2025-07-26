@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou um Desenvolvedor Back-End</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+PHP+%7C+Laravel;MySQL+%7C+Docker+%7C+ElasticSearch;Focado+em+Back-End+robusto+e+eficiente;Construindo+APIs+e+soluções+de+servidor;Aprendendo+e+codando+todos+os+dias!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=900&lines=Java%20%7C%20Spring%20Boot%20%7C%20PHP%20%7C%20Laravel;MySQL%20%7C%20Docker%20%7C%20ElasticSearch;Focado%20em%20Back-End%20robusto%20e%20eficiente;Construindo%20APIs%20e%20solu%C3%A7%C3%B5es%20de%20servidor;Aprendendo%20e%20codando%20todos%20os%20dias!" alt="Typing SVG" />
 </p>
 
 ---
